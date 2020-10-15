@@ -31,7 +31,7 @@ setup(
     long_description=open("README.rst").read(),
     author=__author__,
     author_email=__email__,
-    url="http://httq.io/",
+    url="https://github.com/technige/httq",
     py_modules=["httq"],
     scripts=["httq.py"],
     entry_points={
